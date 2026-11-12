@@ -1,0 +1,6 @@
+{
+  "appId": "com.watermelon.app",
+  "appName": "Watermelon",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
